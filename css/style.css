@@ -1,0 +1,86 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: sans-serif;
+    
+}
+
+header{
+    background-color: rgb(192, 241, 225);
+    padding: 10px 20px;
+    
+}
+
+footer{
+    background-color: rgb(142, 197, 179);
+    padding: 10px 20px;
+    
+
+    
+}
+
+footer li{
+    list-style: none;
+}
+
+footer .textosFooter li{
+    display: inline;
+    padding: 40px;
+}
+
+footer .redesSociales li{
+    display: inline;
+    
+    padding: 10px;
+}
+.center{
+    text-align: center;
+    width: 100%;
+}
+
+.center1{
+    text-align: center;
+    width: 100%;
+}
+
+main{
+    background-color: rgb(192, 241, 225);
+}
+
+
+
+
+.navBar{
+    background-color: rgba(165, 153, 238, 0.712);
+}
+
+
+.navBar li{
+    list-style: none;
+    display: inline;
+
+}
+
+.navBar li a{
+    text-decoration: none;
+    color: white;
+    padding: 100px;
+    
+}
+h1{
+    align-items: center;
+    font-family: sans-serif;
+}
+h2{
+    align-items: center;
+    font-family: sans-serif;
+}
+
+.text{
+    font-size: 16px;
+    padding: 10px;
+}
